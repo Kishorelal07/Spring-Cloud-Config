@@ -1,0 +1,10 @@
+build:
+  version: 1.0
+
+parking-owner-shaibel:
+  message: "Welcome to Universal parking center Task 2 for UAT Env"
+  contactDetails:
+    name: "William Shaibel - Developer"
+    email : "WilliamShaibel@classicchessplayer.com"
+  emailSupport:
+    - +1928399939993
