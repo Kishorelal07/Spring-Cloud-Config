@@ -2,12 +2,13 @@ build:
   version: 2.0
 
 parking-owner:
-  message: "Welcome to Universal parking center Task 1 for Production Environment - SPRING MONITOR"
+  message: "Welcome to Universal parking center Task 1 for Production Environment - SPRING MANAGER"
   contactDetails:
     name: "Elizibeth Harmon - Developer"
     email : "Beth@classicchessplayer.com"
   emailSupport:
     - +1928399939993
+
 
 
 
